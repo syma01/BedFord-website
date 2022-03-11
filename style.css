@@ -1,0 +1,111 @@
+
+		button {		
+			background-color:#339966;
+            border: solid #339966;
+            color: #ffffff;
+ 			font-size:15px;
+			margin-top:1%;
+			margin-left:1%;
+			margin-bottom:1%;
+			height: 35px;
+			width:40%;
+			text-align:center;
+			border-radius:14px;			 
+		}
+		.top-right {
+         position: absolute;
+         top: 27px;
+         right: 56px;
+		 
+       }
+	   .centered {
+       position: absolute;
+       top: 50%;
+       left: 50%;
+       transform: translate(-50%, -50%);
+	   color: white;
+       }
+	   .top-left {
+        position: absolute;
+        top: 5px;
+       left: 16px;
+	   color: white;
+      }
+	  
+	  .text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+		
+		.first{
+		margin-top: 0%;
+		position: relative;
+       text-align: center;
+          
+		}
+		.second{
+		background-color: white;
+		margin-top: 0%;
+		text-align: center;
+		}
+		.third{
+		background-color: white;
+		margin-top: 0%;
+		text-align: center;
+		}
+		.four{
+		background-color: #f2f2f2;
+		padding-top: 4%;
+		padding-bottom:5%;
+		text-align:center;
+		}
+		.five{
+		background-color: black;
+		padding-top: 5%;
+		padding-bottom:3%;
+		text-align:center;
+		}
+		
+	#rcorners2 {
+        border-radius: 14px;
+        border: 1px solid #ffffff; 
+        width: 120px;
+        height: 25px;  
+		margin-top:10%;
+		color:white;
+	}
+	
+	#demotable{
+	width: 70%;
+	margin-left: 20%;
+	text-align:center;
+	}
+	
+	#demobutton{
+	        background-color: black;
+			border: solid black;
+            color: #ffffff;
+ 			font-size:15px;
+			margin-top:1%;
+			margin-left:0%;
+			margin-bottom:1%;
+			width:7%;
+			text-align:center;
+			border-radius:0px;
+            line-height: 30px;			
+	}
+    #insign{
+	line-height: 30px;
+	text-align:center;
+	width: 20%;
+	}
+	table{
+	font-size:17px;
+	}
+     
+	 
